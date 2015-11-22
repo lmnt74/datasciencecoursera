@@ -1,6 +1,7 @@
 This was mostly an exercise in cleaning up data. 
 
 Took the dataset that was provided by UCI and cleaned it up. The data set they provided was scattered through various folders.
+
 Raw Data:
 Volunteer and volunteer activity
 Various measurements are included in different files broken up into training sets and test sets. (more details in features.txt)
